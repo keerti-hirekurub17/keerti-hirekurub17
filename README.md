@@ -84,9 +84,9 @@ I'm continuously learning, building, testing, and improving my projects as I gro
 
 ## 🌐 Let's Connect!
 
-💼 **LinkedIn:** Add your LinkedIn URL
+💼 **LinkedIn:** www.linkedin.com/in/keertihirekurub
 
-📧 **Email:** Add your professional email
+📧 **Email:** keertihirekurub17@gmail.com 
 
 🐙 **GitHub:** You're already here — explore my repositories!
 
