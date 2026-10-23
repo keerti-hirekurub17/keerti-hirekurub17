@@ -1,55 +1,100 @@
-# Hi there, I'm Keerti 👋
+# 👋 Hey, I'm Keerti!
 
-### Aspiring AI/ML Engineer | Generative AI | RAG | Python
+### 🤖 Aspiring AI Engineer | Generative AI | Machine Learning | Python
 
-I'm a Computer Science Engineering graduate passionate about building practical AI solutions and exploring how AI can solve real-world problems.
+✨ *Turning ideas into intelligent solutions, one project at a time.*
 
-I have completed an AI/ML internship and am continuously improving my skills through hands-on projects, experimentation, and learning new technologies.
+I'm a Computer Science Engineering graduate passionate about **Artificial Intelligence, Machine Learning, and Generative AI**. Through my AI/ML internship and hands-on projects, I'm exploring how to build practical AI applications that solve real-world problems.
 
-### 🚀 About Me
-
-- 🤖 Interested in Artificial Intelligence, Machine Learning, and Generative AI.
-- 🧠 Learning to build LLM-powered applications using RAG and AI agents.
-- 💻 Practicing Python, SQL, and data processing.
-- 🔍 Exploring LangGraph, vector search, embeddings, and AI guardrails.
-- 🛠️ Building practical projects to strengthen my problem-solving skills.
-- 📈 Focused on growing as an AI/ML Engineer.
-
-### 🛠️ Technical Skills
-
-**Programming:** Python, SQL
-
-**AI/ML:** Machine Learning, NLP, Generative AI, Large Language Models (LLMs)
-
-**GenAI & RAG:** Retrieval-Augmented Generation (RAG), Embeddings, Vector Search, Hybrid Search, Reranking, AI Guardrails
-
-**Frameworks & Tools:** LangChain, LangGraph, FAISS, Streamlit, Ollama, Git, GitHub
-
-**Data & Databases:** Pandas, NumPy, SQLite, Snowflake
-
-### 💡 Featured Projects
-
-- **AI Interview Coach** — A Python-based application designed to support interview practice across Python, SQL, Machine Learning, and RAG.
-- **Production-Oriented RAG System** — Exploring document ingestion, chunking, vector search, hybrid retrieval, reranking, and relevance checking.
-- **Resume Job Matcher** — A project focused on matching resumes with job descriptions to support job-search preparation.
-- **AI Agent Projects** — Exploring tool calling, state management, and workflow orchestration with LangGraph.
-
-### 📚 Currently Learning
-
-- Advanced Python and SQL
-- Machine Learning fundamentals and interview preparation
-- Production-ready RAG applications
-- AI agents and multi-step workflows with LangGraph
-- Evaluation, reliability, and safety of LLM applications
-
-### 🤝 Let's Connect
-
-I'm always interested in learning, collaborating on AI projects, and connecting with people working in AI and Machine Learning.
-
-- 💼 LinkedIn: [Add your LinkedIn profile URL](https://www.linkedin.com/)
-- 📧 Email: Add your professional email
-- 🐙 GitHub: [Explore my repositories](https://github.com/)
+I believe in learning by building, experimenting with new technologies, and improving a little every day. 🚀
 
 ---
 
-⭐ *Keep learning, keep building, and keep improving.*
+## 🧑‍💻 A Little About Me
+
+- 🔭 **Building:** AI-powered applications and RAG systems
+- 🧠 **Exploring:** LLMs, AI agents, LangGraph, and AI guardrails
+- 💻 **Coding in:** Python and SQL
+- 🔍 **Interested in:** Intelligent automation, information retrieval, and applied AI
+- 🌱 **Growing toward:** AI/ML Engineer
+- 🎯 **My goal:** Turn AI concepts into useful, reliable applications
+
+---
+
+## ⚡ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**AI & Generative AI**
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
+![GenAI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-222222?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
+
+**Tools & Technologies**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+---
+
+## 🚀 Projects I'm Working On
+
+### 🧠 AI Interview Coach
+A Python-based application for practicing technical interviews in Python, SQL, Machine Learning, and RAG.
+
+### 📚 Production-Oriented RAG System
+Exploring document processing, embeddings, hybrid search, reranking, and relevance checking to build more reliable LLM applications.
+
+### 🎯 Resume Job Matcher
+A project focused on comparing resumes with job descriptions and helping identify relevant skills.
+
+### 🤖 AI Agent Workflows
+Learning to build multi-step AI workflows using LangGraph, tools, state management, and controlled execution.
+
+---
+
+## 📈 My Learning Journey
+
+```text
+Python & SQL
+     ↓
+Machine Learning
+     ↓
+Generative AI & LLMs
+     ↓
+RAG Applications
+     ↓
+AI Agents & LangGraph
+     ↓
+Reliable AI Systems
+```
+
+I'm continuously learning, building, testing, and improving my projects as I grow in the AI engineering field.
+
+---
+
+## 🌐 Let's Connect!
+
+💼 **LinkedIn:** Add your LinkedIn URL
+
+📧 **Email:** Add your professional email
+
+🐙 **GitHub:** You're already here — explore my repositories!
+
+---
+
+### 💫 My Philosophy
+
+*"Don't just learn the technology. Build something meaningful with it."*
+
+⭐ Thanks for visiting my profile. Let's keep building the future with AI!
+
